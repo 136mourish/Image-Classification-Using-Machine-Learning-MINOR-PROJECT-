@@ -1,2 +1,2 @@
-# Image-Classification-Using-Machine-Learning-MINOR-PROJECT-
+# Minor project - smartknower
 MINOR PROJECT
